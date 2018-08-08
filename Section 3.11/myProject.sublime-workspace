@@ -1,0 +1,492 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"inc\t#include \"…\""
+			],
+			[
+				"t",
+				"tabTrigger"
+			],
+			[
+				"T",
+				"Traveler"
+			],
+			[
+				"g",
+				"getGreeting"
+			],
+			[
+				"hom",
+				"homeLocation〔variable〕"
+			],
+			[
+				"ge",
+				"getDescription"
+			],
+			[
+				"thi",
+				"this.name"
+			],
+			[
+				"r",
+				"renderApp"
+			],
+			[
+				"ren",
+				"renderApp〔function〕"
+			],
+			[
+				"Sh",
+				"Show"
+			],
+			[
+				"on",
+				"onOff"
+			],
+			[
+				"o",
+				"onOff"
+			],
+			[
+				"S",
+				"ShowHide"
+			],
+			[
+				"app",
+				"app.options"
+			],
+			[
+				"ran",
+				"randomNum〔variable〕"
+			],
+			[
+				"opt",
+				"option"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"n",
+				"number"
+			],
+			[
+				"opti",
+				"options"
+			],
+			[
+				"re",
+				"rerenderCount"
+			],
+			[
+				"tem",
+				"templateTwo"
+			],
+			[
+				"mul",
+				"multiply"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"u",
+				"userLocation"
+			],
+			[
+				"user",
+				"userName〔variable〕"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"bo",
+				"bds:o\tborder-style:outset"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"gr",
+				"grid-area"
+			],
+			[
+				"gri",
+				"grid-area"
+			],
+			[
+				"grid-te",
+				"grid-template-rows"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.c",
+			"settings":
+			{
+				"buffer_size": 77,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 443.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"repl r",
+				"SublimeREPL: R"
+			],
+			[
+				"REPL R",
+				"SublimeREPL: R"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"m",
+				"Material Theme: Activate theme"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"prefs",
+				"Preferences: SublimeLint Settings – User"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"materi",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Cont",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 580.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/will/Desktop/C Programming for Beginners/Section 3.11"
+	],
+	"file_history":
+	[
+		"/C/Users/will/Desktop/C Programming for Beginners/Section 3/myproject.sublime-project",
+		"/C/Users/will/Desktop/C Programming for Beginners/Section 3/main.c",
+		"/C/Users/will/AppData/Roaming/Sublime Text 3/Packages/User/C.sublime-build",
+		"/C/Users/will/Desktop/C Programming for Beginners/Section 3/test.c",
+		"/C/Users/will/Desktop/C Programming for Beginners/README.txt",
+		"/C/Users/will/Desktop/C Programming for Beginners/test2.c",
+		"/C/Users/will/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/D/Program Files/Sublime Text 3/changelog.txt",
+		"/C/Users/Will2/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Will2/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Will2/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/Will2/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-mousemap",
+		"/C/Users/Will2/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+		"/C/Users/Will2/AppData/Roaming/Sublime Text 3/Packages/User/Babel.sublime-settings",
+		"/C/Users/Will2/AppData/Roaming/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+		"/C/Users/Will2/Desktop/react-course-projects/indecision-app/src/playground/build-it-visible.js",
+		"/C/Users/Will2/Desktop/react-course-projects/indecision-app/public/index.html",
+		"/C/Users/Will2/Desktop/react-course-projects/indecision-app/src/playground/counter-example.js",
+		"/C/Users/Will2/Desktop/Exam Dates.txt",
+		"/C/Users/Will2/Desktop/r-04-13-forms-inputs/src/app.js",
+		"/E/Nw.txt",
+		"/E/KeyPass.txt",
+		"/C/Users/Will2/Desktop/February 2018 GOLD/Viewing Tip.txt",
+		"/C/Users/Will2/Desktop/r-04-11-events/src/app.js",
+		"/C/Users/Will2/Desktop/react-course-projects/indecision-app/src/playground/es6-arrow-functions.js",
+		"/C/Users/Will2/Desktop/react-course-projects/indecision-app/public/scripts/app.js",
+		"/C/Users/Will2/Desktop/react-course-projects/indecision-app/src/playground/es6-let-const.js",
+		"/C/Users/Will2/Desktop/react-course-projects/indecision-app/src/playground.js",
+		"/C/Users/Will2/Desktop/345 201/Homework/Assignment 4/question1 (4).txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/SlayTheSpire/info.displayconfig",
+		"/C/Users/Will2/Desktop/Scrap.txt",
+		"/C/Users/Will2/Desktop/345 201/Homework/Assignment 3/m345_hw3-1.txt",
+		"/C/Users/Will2/Desktop/345 201/Homework/Assignment 3/m345_hw3-2.txt",
+		"/C/Users/Will2/Desktop/345 201/Homework/Assignment 3/m345_hw3-3.txt",
+		"/C/Users/Will2/Desktop/345 201/Homework/Assignment 4/question1.ode",
+		"/C/Users/Will2/Desktop/345 201/Homework/Assignment 4/question1.txt",
+		"/C/Users/Will2/Desktop/345 201/Homework/Assignment 4/question1 (3).txt",
+		"/C/Users/Will2/Desktop/345 201/Homework/Assignment 3/m345_hw3-3.ode",
+		"/C/Users/Will2/Desktop/345 201/Homework/Assignment 3/m345_hw3-2.ode",
+		"/C/Users/Will2/Desktop/345 201/Homework/Assignment 3/overview.txt",
+		"/C/Users/Will2/Desktop/345 201/Homework/Assignment 3/New Text Document.txt",
+		"/C/Users/Will2/Desktop/345 201/Homework/Assignment 3/m345_hw3-1.ode",
+		"/C/Users/Will2/Desktop/316 202/Homework/Assignment 2/scrap.txt",
+		"/C/Users/Will2/Desktop/342 201/textbook.txt",
+		"/C/Users/Will2/Desktop/Learning Japanese.txt",
+		"/C/Users/Will2/Desktop/Learning Maths.txt",
+		"/C/Users/Will2/Desktop/345 201/Homework/Assignment 2/m345_hw2-2 - Copy.txt",
+		"/C/Users/Will2/Desktop/316 202/Homework/Assignment 3/bessel_HW3.m.txt",
+		"/C/Users/Will2/Desktop/New Text Document.txt",
+		"/C/Users/Will2/OneDrive/Documents/Rainmeter/Skins/Spectrum/don't read me.txt",
+		"/C/Users/Will2/Desktop/Midterm Dates.txt",
+		"/C/Users/Will2/Coding/ReactJS/My apps/adding_calc/src/components/input.js",
+		"/C/Users/Will2/OneDrive/Documents/Rainmeter/Skins/Spectrum/Center Launcher/Spectrum Launcher.ini",
+		"/C/Users/Will2/Coding/ReactJS/My apps/adding_calc/src/style/main.js",
+		"/C/Users/Will2/Coding/ReactJS/My apps/adding_calc/src/components/printHello.js",
+		"/C/Users/Will2/Coding/ReactJS/My apps/adding_calc/src/index.js",
+		"/C/Users/Will2/Coding/ReactJS/My apps/adding_calc/src/style/style.css",
+		"/C/Users/Will2/Coding/ReactJS/My apps/adding_calc/src/style/main.scss",
+		"/C/Users/Will2/Desktop/Coding/reactProject/app/node_modules/postcss-selector-parser/dist/index.js",
+		"/C/Users/Will2/Desktop/Coding/reactProject/app/src/test.jsx",
+		"/C/Users/Will2/Desktop/Coding/reactjs1/myapp/package.json",
+		"/C/Users/Will2/Desktop/Coding/reactjs1/myapp/.babelrc",
+		"/C/Users/Will2/Desktop/Coding/reactjs1/myapp/package-lock.json",
+		"/C/Users/Will2/Desktop/Coding/reactjs1/myapp/webpack.config.js",
+		"/C/Users/Will2/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+		"/C/Users/Will2/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/C/Users/Will2/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/Will2/AppData/Roaming/Sublime Text 3/Packages/User/.jsbeautifyrc",
+		"/C/Users/Will2/OneDrive/Documents/Coding/Project 1 - Blog/main.html",
+		"/C/Users/Will2/OneDrive/Documents/Coding/Project 1 - Blog/scss/main.scss",
+		"/C/Users/Will2/OneDrive/Documents/Coding/Project 1 - Blog/test.html",
+		"/C/Users/Will2/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+		"/C/Users/Will2/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLint.sublime-settings",
+		"/C/Users/Will2/AppData/Roaming/Sublime Text 3/Packages/SassBeautify/SassBeautify.sublime-settings",
+		"/C/Users/Will2/OneDrive/Documents/Coding/Project 1 - Blog/style.css.map",
+		"/C/Users/Will2/OneDrive/Documents/Coding/Project 1 - Blog/style.scss"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 77,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77,
+								77
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 83.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 54.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/C.sublime-build",
+	"project": "myProject.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
