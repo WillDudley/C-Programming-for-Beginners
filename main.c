@@ -2,8 +2,8 @@
 
 int main(int argc, char const *argv[])
 {
-	double a = 16;
-
-	printf("%lf\n", a);
+	int tests;
+	scanf("%d", tests);
+	printf("%d \n", tests);
 	return 0;
 }
