@@ -2,8 +2,7 @@
 
 int main(int argc, char const *argv[])
 {
-	int tests;
-	scanf("%d", tests);
-	printf("%d \n", tests);
-	return 0;
+	signed int a = 60;
+	signed int result = ~a;
+	printf("%d \n", result);
 }
