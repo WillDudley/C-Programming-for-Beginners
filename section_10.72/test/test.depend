@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1534090151 source:c:\users\will\desktop\c programming for beginners\section_10.72\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
