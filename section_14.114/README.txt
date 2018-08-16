@@ -1,0 +1,1 @@
+This is my work following the "C Programming for Beginners" course on Udemy, for the purpose of further programming language comprehension and actually finally using git. 

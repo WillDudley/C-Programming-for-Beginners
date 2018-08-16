@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512335405 source:c:\users\jfedin\downloads\convertinglowercasefile\main.c
+	<stdio.h>
+	<stdlib.h>
+
